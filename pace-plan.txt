@@ -3,5 +3,5 @@ pace planing
 -belajar dasar javascript
 -belajar framework CSS
 -belajar FLASBOX
--belajar GITHUB $ GIT
 -membuat website sederhana
+-belajar GIT
