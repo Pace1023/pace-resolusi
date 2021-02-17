@@ -1,0 +1,5 @@
+RENCANA BELAJAR FRONTEND
+-belajar ( javascript )
+1.belajar DOM
+2.belajar DOM SELECTION
+3.belajar DOM TRAVELSAL
