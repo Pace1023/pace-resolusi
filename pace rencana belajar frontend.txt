@@ -1,5 +1,6 @@
 RENCANA BELAJAR FRONTEND
--belajar ( javascript )
-1.belajar DOM
-2.belajar DOM SELECTION
-3.belajar DOM TRAVELSAL
+JAVASCRIPT
++ DOM ( docment objek model )
+1.DOM time
+2.DOM selection
+3.DOM travelsal
